@@ -1,7 +1,13 @@
 # Tracking Down Bad Guys
+
 ## Installing OODT
+
 ## Configuring the crawler
+
 ## Configuring the file manager
+
 ## Writing a workflow
+
 ## Managing the workflow resources
+
 ## Data aggregation and analytics

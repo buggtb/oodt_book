@@ -1,6 +1,11 @@
-#8 Building a photo library and archive
+# Building a photo library and archive
+
 ## Installing OODT
+
 ## Configuring the file manager
+
 ## Configuring the crawler
+
 ## Creating a frontend for users
+
 ## Summary

@@ -1,6 +1,11 @@
-#7 Other modules
+# Other modules
+
 ## GUI Modules
+
 ## Data Transfer Protocols
+
 ## Integration with other tools
+
 ## Virtual Containers (Vagrant, Docker)
+
 ## Summary

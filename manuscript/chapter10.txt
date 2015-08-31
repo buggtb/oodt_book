@@ -1,8 +1,15 @@
 # Distributed data entry and aggregation
+
 ## Installing OODT
+
 ## Configuring the push pull framework
+
 ## Configuring the file manager
+
 ## Creating a workflow
+
 ## Triggering the workflow
+
 ## Creating a user interface
+
 ## Summary

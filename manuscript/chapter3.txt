@@ -1,6 +1,11 @@
-# Building NASA’s next generation of data processing systems
+# Building NASA's next generation of data processing systems
+
 ## Introduction: Orbiting Carbon Observatory, Suomi National Polar-orbiting Partnership and Soil Moisture Active Passive Satellite
+
 ## Airborne Instruments: Airborne Snow Observatory, Carbon in Arctic Reservoirs Vulnerability Experiment
+
 ## Architecture
+
 ## Evaluation
+
 ## Summary

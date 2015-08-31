@@ -1,7 +1,13 @@
 # Quick start
+
 ## Taking OODT for a spin
+
 ### Introducing Radix
+
 ### Checking out and building the RADiX distribution
+
 ### Starting OODT and first steps
+
 ## Downloading and using OODT from source code
+
 ## Summary
